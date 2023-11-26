@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    font-size: 25px;
+    
+}
+
+body {
+    background-color: #fdffcd;
+}
+
+input {
+    display: block;
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 5px;
+}
+
+button {
+    background-color: #e0ffcd;
+    padding: 5px;
+    margin-right: 10px;
+    border: 4px solid #ffebbb;
+
+}
+
+#delete-btn {
+    background-color: #ffcab0;
+}
