@@ -32,3 +32,8 @@ button {
 #delete-btn {
     background-color: #ffcab0;
 }
+
+#saved-links {
+    list-style-type: none;
+    padding-left: 10px;
+}
