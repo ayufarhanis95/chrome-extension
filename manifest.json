@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Manager for Chrome",
+    "version": "1.0",
+    "icons": {
+      
+    },
+
+    "action": {
+        "default_popup": "index.html"
+      },
+      
+"permissions": [
+    "tabs"]
+
+}
